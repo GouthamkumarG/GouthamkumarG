@@ -97,9 +97,9 @@ Currently available for **Junior AI Engineer** and **Full Stack Developer** role
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **AI Job Hunter** | Automated UK job search pipeline — scrapes LinkedIn, analyses resume with Claude AI, calculates ATS scores, sends daily report | N8N · Apify · Claude AI · Google Sheets · Gmail |
+| **AI Job Hunter** | Automated UK job search pipeline scrapes LinkedIn, analyses resume with Claude AI, calculates ATS scores, sends daily report | N8N · Apify · Claude AI · Google Sheets · Gmail |
 | **CraftUML** | AI-powered UML diagram generator achieving 88% NLP accuracy in under 3 seconds | Python · FastAPI · spaCy · PlantUML · React |
-| **Laundry Platform** | Production-grade platform serving live commercial client — full mobile app, backend, admin dashboard | React Native · Node.js · PostgreSQL · Redis · Razorpay |
+| **Laundry Platform** | Production-grade platform serving live commercial client full mobile app, backend, admin dashboard | React Native · Node.js · PostgreSQL · Redis · Razorpay |
 | **Meeting Notes Processor** | Agentic AI pipeline that extracts action items, creates Notion tasks, dispatches summaries automatically | N8N · OpenAI · Notion API · Webhooks |
 
 </div>
