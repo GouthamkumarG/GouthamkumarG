@@ -23,11 +23,11 @@
 
 **AI Engineer and Full Stack Developer** with an MSc in Computer Science from the University of Dundee, specialising in LLM integration, NLP pipelines, and agentic AI automation.
 
-I build production-grade systems at the intersection of artificial intelligence and modern full-stack engineering — from mobile apps to backend infrastructure to intelligent automation pipelines.
+I build production-grade systems at the intersection of artificial intelligence and modern full-stack engineering from mobile apps to backend infrastructure to intelligent automation pipelines.
 
 I accelerate development using cutting-edge AI tools like **Claude**, **ChatGPT**, **Cursor**, **Windsurf**, and **GitHub Copilot** to build smarter applications and stay at the forefront of modern development.
 
-Currently available for **Junior AI Engineer** and **Full Stack Developer** roles across the UK — remote and hybrid welcome.
+Currently available for **Junior AI Engineer** and **Full Stack Developer** roles across the UK -remote and hybrid welcome.
 
 <br clear="right"/>
 
