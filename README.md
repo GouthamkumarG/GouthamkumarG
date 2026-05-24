@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:1a1a4e&height=200&section=header&text=Goutham%20Gorthi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Architect&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+AI+%26+Engineering;LLMs+%C2%B7+NLP+%C2%B7+Agentic+Pipelines+%C2%B7+Full+Stack;MSc+Computer+Science+%C2%B7+University+of+Dundee;Available+for+Junior+AI+%26+Full+Stack+roles+in+UK" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=GouthamkumarG&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouthamchowdary)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamchowdary00@gmail.com)
@@ -20,45 +17,34 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ABOUT ME -->
-<div align="center">
-<h2>🚀 About Me</h2>
-</div>
+## About Me
 
-```python
-class GouthamGorthi:
-    def __init__(self):
-        self.name = "Goutham Gorthi"
-        self.location = "Dundee, Scotland, UK"
-        self.education = "MSc Computer Science · University of Dundee"
-        self.role = ["AI Engineer", "Full Stack Developer", "Automation Architect"]
-        self.languages = ["Python", "TypeScript", "JavaScript"]
-        self.currently_building = [
-            "Production laundry platform — React Native + Node.js + PostgreSQL",
-            "Agentic meeting notes processor — N8N + OpenAI + Notion API",
-            "AI Job Hunter — Automated UK job search pipeline"
-        ]
-        self.available_for = "Junior AI Engineer & Full Stack Developer roles in UK"
-        self.motto = "Don't do manually what can be automated intelligently"
-```
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300"/>
+
+**AI Engineer and Full Stack Developer** with an MSc in Computer Science from the University of Dundee, specialising in LLM integration, NLP pipelines, and agentic AI automation.
+
+I build production-grade systems at the intersection of artificial intelligence and modern full-stack engineering — from mobile apps to backend infrastructure to intelligent automation pipelines.
+
+I accelerate development using cutting-edge AI tools like **Claude**, **ChatGPT**, **Cursor**, **Windsurf**, and **GitHub Copilot** to build smarter applications and stay at the forefront of modern development.
+
+Currently available for **Junior AI Engineer** and **Full Stack Developer** roles across the UK — remote and hybrid welcome.
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TECH STACK -->
-<div align="center">
-<h2>⚡ Tech Stack</h2>
-</div>
+## Tech Stack
 
 <div align="center">
 
 **AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-7B2FBE?style=for-the-badge&logo=amazonaws&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Full Stack**
 
@@ -89,9 +75,9 @@ class GouthamGorthi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- AI TOOLS -->
+## AI-Powered Development Tools
+
 <div align="center">
-<h2>🤖 AI-Powered Development Tools</h2>
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -105,27 +91,24 @@ class GouthamGorthi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-<h2>🏆 Featured Projects</h2>
-</div>
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎯 **AI Job Hunter** | Automated UK job search pipeline — scrapes LinkedIn, analyses resume with Claude AI, calculates ATS scores, sends daily report | N8N · Apify · Claude AI · Google Sheets · Gmail |
-| 🔷 **CraftUML** | AI-powered UML diagram generator achieving 88% NLP accuracy in under 3 seconds | Python · FastAPI · spaCy · PlantUML · React |
-| 🧺 **Laundry Platform** | Production-grade platform serving live commercial client — full mobile app, backend, admin dashboard | React Native · Node.js · PostgreSQL · Redis · Razorpay |
-| 🤖 **Meeting Notes Processor** | Agentic AI pipeline that extracts action items, creates Notion tasks, dispatches summaries automatically | N8N · OpenAI · Notion API · Webhooks |
+|---------|-------------|------------|
+| **AI Job Hunter** | Automated UK job search pipeline — scrapes LinkedIn, analyses resume with Claude AI, calculates ATS scores, sends daily report | N8N · Apify · Claude AI · Google Sheets · Gmail |
+| **CraftUML** | AI-powered UML diagram generator achieving 88% NLP accuracy in under 3 seconds | Python · FastAPI · spaCy · PlantUML · React |
+| **Laundry Platform** | Production-grade platform serving live commercial client — full mobile app, backend, admin dashboard | React Native · Node.js · PostgreSQL · Redis · Razorpay |
+| **Meeting Notes Processor** | Agentic AI pipeline that extracts action items, creates Notion tasks, dispatches summaries automatically | N8N · OpenAI · Notion API · Webhooks |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB STATS -->
+## GitHub Stats
+
 <div align="center">
-<h2>📊 GitHub Stats</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GouthamkumarG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamkumarG&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
@@ -137,9 +120,9 @@ class GouthamGorthi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CURRENT FOCUS -->
+## Current Focus
+
 <div align="center">
-<h2>🎯 Current Focus</h2>
 
 ![AI Development](https://img.shields.io/badge/AI_Powered_Development-FF6B6B?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Engineering-00D9FF?style=for-the-badge)
@@ -152,9 +135,9 @@ class GouthamGorthi:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CONNECT -->
+## Connect With Me
+
 <div align="center">
-<h2>🤝 Connect With Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouthamchowdary)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamchowdary00@gmail.com)
